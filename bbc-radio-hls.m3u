@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0,401 - BBC Radio 1 (AAC)
+#EXTMYTHTV:xmltvid=england.1.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
+#EXTINF:0,400 - BBC Radio 1xtra (AAC)
+#EXTMYTHTV:xmltvid=xtra.1.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8
+#EXTINF:0,402 - BBC Radio 2 (AAC)
+#EXTMYTHTV:xmltvid=2.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8
+#EXTINF:0,403 - BBC Radio 3 (AAC)
+#EXTMYTHTV:xmltvid=3.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
+#EXTINF:0,404 - BBC Radio 4FM (AAC)
+#EXTMYTHTV:xmltvid=4fm.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8
+#EXTINF:0,407 - BBC Radio 4extra (AAC)
+#EXTMYTHTV:xmltvid=extra.4.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8
+#EXTINF:0,405 - BBC Radio 5 Live (AAC)
+#EXTMYTHTV:xmltvid=5live.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/llnw/bbc_radio_five_live.m3u8
+#EXTINF:0,408 - BBC Radio 5 Live Sports Extra (AAC)
+#EXTMYTHTV:xmltvid=extra.5live.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
+#EXTINF:0,406 - BBC Radio 6 Music (AAC)
+#EXTMYTHTV:xmltvid=6music.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+#EXTINF:0,409 - BBC Asian Network (AAC)
+#EXTMYTHTV:xmltvid=asian.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8
+#EXTINF:0,410 - BBC Radio 4LW (AAC)
+#EXTMYTHTV:xmltvid=4lw.radio.bbc.co.uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourlw.m3u8
